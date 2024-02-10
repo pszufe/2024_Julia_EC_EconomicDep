@@ -1,13 +1,11 @@
-# Introduction to Julia for Data Science
-## Working with tabular data
-Day 1 (Tuesday, Jan 16, 2024, 11:00am – 12:30pm)
+# Introduction to Julia
+
+Przemysław Szufel
 
 
-
-**Julia installation instructions**
-
-© 2024 Przemysław Szufel under the terms of MIT License
-
+Materials:
+- Jupyter notebook: [01_Basics.ipynb](01_Basics.ipynb)
+- Slides: [Julia_intro_Brussels_2024.pptx](Julia_intro_Brussels_2024.pptx)
 
 **What is Julia**
 
@@ -35,8 +33,6 @@ Julia is a new Open Source language designed for science and data analysis. With
         pkg"instantiate"
         using Conda
         Conda.runconda(`install jupyter --yes`)
-        Conda.runconda(`install matplotlib --yes`)
-        Conda.runconda(`install folium -c conda-forge --yes`)
         ```
 
 4. The recommended programming environment for the Julia language is Visual Studio Code (https://code.visualstudio.com/) with Julia extension. Please follow the steps below:

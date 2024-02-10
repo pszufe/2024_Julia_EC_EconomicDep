@@ -5,7 +5,7 @@
 
 **Time:**  09:00-17:00 (includes breaks)
 
-**Location**: 
+**Location**:
 	Directorate General for Economic and Financial Affairs – Unit B2
 	Rue de la Loi 170/Wetstraat 170
 	1049 Bruxelles/Brussel
@@ -26,7 +26,7 @@ This course does not require the participants to have prior detailed knowledge o
 **Schedule** (all times are EST time zone)
 
 <table>
-<tr><td><b>Day 1 (Tuesday, Feb 20, 2024)</b></td><td>[1 Basics](1_Basics)<br>
+<tr><td><b>Day 1 (Tuesday, Feb 20, 2024)</b></td><td><a href="1_Basics/">1 Basics</a><br>
 <ul>
 <li> What is the Julia language - motivation and key design concepts, managing virtual environment and packages
 <li> Installing and running Julia, Julia IDE (VS Code, Jupyter notebook)
@@ -34,20 +34,19 @@ This course does not require the participants to have prior detailed knowledge o
 <li> Basic data structures (dictionaries, tuples, matrices, structures)
 <ul>
 </td><td>&nbsp;</td></tr>
-<tr><td>&nbsp;</td><td>[2 Working with Data Sources](2_Working_with_Data_Sources/)</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td><a href="2_Working_with_Data_Sources/">2 Working with Data Sources</a></td><td>&nbsp;</td></tr>
 
-<tr><td>&nbsp;</td><td>[3 Data Visualizations with Plots.jl](3_Data_Visualizations_Plots.jl/)</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td><a href="3_Data_Visualizations_Plots.jl/">3 Data Visualizations with Plots.jl</a></td><td>&nbsp;</td></tr>
 
-<tr><td>&nbsp;</td><td>[4 Julia Performance condiderations](4_Julia_Performance/)</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td><a href="4_Julia_Performance/">4 Julia Performance condiderations</a></td><td>&nbsp;</td></tr>
 
 
-<tr><td><b>Day 2 (Wednesday, Feb 21, 2024)</b></td><td>[5 DataFrames and Transformations](5_DataFrames_and_Transformations/)
+<tr><td><b>Day 2 (Wednesday, Feb 21, 2024)</b></td><td><a href="5_DataFrames_and_Transformations/">5 DataFrames and Transformations</a>
 <ul>
 <li>Introduction to Data Frames, data transformations
 <li>Transforming and processing tabular data for modelling
 </ul></td><td>&nbsp;</td></tr>
-<tr><td>&nbsp;</td><td>[6 Statistical Analysis and PredictiveModelling](6_Statistical_Analysis_and_PredictiveModelling/)</td><td>&nbsp;</td></tr>
-<tr><td>&nbsp;</td><td>[7_Scaling_out_Computations](7_Scaling_out_Computations/)</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td><a href="6_Statistical_Analysis_and_PredictiveModelling/">6 Statistical Analysis and PredictiveModelling</a></td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td><a href="7_Scaling_out_Computations/">7_Scaling_out_Computations</a></td><td>&nbsp;</td></tr>
 
 </table>
-

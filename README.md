@@ -34,11 +34,31 @@ This course does not require the participants to have prior detailed knowledge o
 <li> Basic data structures (dictionaries, tuples, matrices, structures)
 <ul>
 </td><td>&nbsp;</td></tr>
-<tr><td>&nbsp;</td><td><a href="2_Working_with_Data_Sources/">2 Working with Data Sources</a></td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td><a href="2_Working_with_Data_Sources/">2 Working with Data Sources</a><br>
+<ul>
+<li> Simple Delimited Files
+<li> CSV
+<li> JSON
+<li> Microsoft Excel
+<li> Apache Arrow
+</ul>
+</td><td>&nbsp;</td></tr>
 
-<tr><td>&nbsp;</td><td><a href="3_Data_Visualizations_Plots.jl/">3 Data Visualizations with Plots.jl</a></td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td><a href="3_Data_Visualizations_Plots.jl/">3 Data Visualizations with Plots.jl</a><br>
+<ul>
+<li> Working with Plots.jl and backends
+<li> Animations
+<li> Plots for scientific reports
+</ul>
 
-<tr><td>&nbsp;</td><td><a href="4_Julia_Performance/">4 Julia Performance condiderations</a></td><td>&nbsp;</td></tr>
+</td><td>&nbsp;</td></tr>
+
+<tr><td>&nbsp;</td><td><a href="4_Julia_Performance/">4 Julia Performance condiderations</a><br>
+<ul>
+<li> Code benchmarking
+<li> Basic performance considerations
+</ul>
+</td><td>&nbsp;</td></tr>
 
 
 <tr><td><b>Day 2 (Wednesday, Feb 21, 2024)</b></td><td><a href="5_DataFrames_and_Transformations/">5 DataFrames and Transformations</a>
@@ -47,6 +67,13 @@ This course does not require the participants to have prior detailed knowledge o
 <li>Transforming and processing tabular data for modelling
 </ul></td><td>&nbsp;</td></tr>
 <tr><td>&nbsp;</td><td><a href="6_Statistical_Analysis_and_PredictiveModelling/">6 Statistical Analysis and PredictiveModelling</a></td><td>&nbsp;</td></tr>
-<tr><td>&nbsp;</td><td><a href="7_Scaling_out_Computations/">7_Scaling_out_Computations</a></td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td><a href="7_Scaling_out_Computations/">7_Scaling_out_Computations</a><br>
+<ul>
+<li> Single Instruction Multiple Data (SIMD)
+<li> Green threading
+<li> Multi-threading
+<li> Parallel and distributed computing
+</ul>
+</td><td>&nbsp;</td></tr>
 
 </table>

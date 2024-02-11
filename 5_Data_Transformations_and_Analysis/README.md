@@ -12,3 +12,4 @@ Materials:
 
 Extra materials:
 - Book: [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis)
+- Introductory econometrics: [Jeffrey M. Wooldridge: Introductory Econometrics A Modern Approach, 7th ed.](https://github.com/bkamins/WooldridgeCode.jl)

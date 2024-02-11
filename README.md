@@ -61,13 +61,13 @@ This course does not require the participants to have prior detailed knowledge o
 </td><td>&nbsp;</td></tr>
 
 
-<tr><td><b>Day 2 (Wednesday, Feb 21, 2024)</b></td><td><a href="5_DataFrames_and_Transformations/">5 DataFrames and Transformations</a>
+<tr><td><b>Day 2 (Wednesday, Feb 21, 2024)</b></td><td><a href="5_Data_Transformations_and_Analysis/">5 Data Transformations and Analysis</a>
 <ul>
 <li>Introduction to Data Frames, data transformations
 <li>Transforming and processing tabular data for modelling
-</ul></td><td>&nbsp;</td></tr>
-<tr><td>&nbsp;</td><td><a href="6_Statistical_Analysis_and_PredictiveModelling/">6 Statistical Analysis and PredictiveModelling</a></td><td>&nbsp;</td></tr>
-<tr><td>&nbsp;</td><td><a href="7_Scaling_out_Computations/">7_Scaling_out_Computations</a><br>
+<li>Statistical analysis and predictive modeling
+</ul>
+<tr><td>&nbsp;</td><td><a href="6_Scaling_out_Computations/">6_Scaling_out_Computations</a><br>
 <ul>
 <li> Single Instruction Multiple Data (SIMD)
 <li> Green threading

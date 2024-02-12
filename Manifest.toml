@@ -905,9 +905,9 @@ version = "0.11.31"
 
 [[deps.PGFPlotsX]]
 deps = ["ArgCheck", "Dates", "DefaultApplication", "DocStringExtensions", "MacroTools", "OrderedCollections", "Parameters", "Requires", "Tables"]
-git-tree-sha1 = "3e7a0345b9f37da2cd770a5d47bb5cb6e62c7a81"
+git-tree-sha1 = "7bc55854924ceb9842646bf1f00396d6646c0c55"
 uuid = "8314cec4-20b6-5062-9cdb-752b83310925"
-version = "1.6.0"
+version = "1.6.1"
 
     [deps.PGFPlotsX.extensions]
     ColorsExt = "Colors"
@@ -1194,9 +1194,9 @@ version = "1.7.0"
 
 [[deps.StatsBase]]
 deps = ["DataAPI", "DataStructures", "LinearAlgebra", "LogExpFunctions", "Missings", "Printf", "Random", "SortingAlgorithms", "SparseArrays", "Statistics", "StatsAPI"]
-git-tree-sha1 = "d1bf48bfcc554a3761a133fe3a9bb01488e06916"
+git-tree-sha1 = "1d77abd07f617c4868c33d4f5b9e1dbb2643c9cf"
 uuid = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
-version = "0.33.21"
+version = "0.34.2"
 
 [[deps.StatsFuns]]
 deps = ["HypergeometricFunctions", "IrrationalConstants", "LogExpFunctions", "Reexport", "Rmath", "SpecialFunctions"]

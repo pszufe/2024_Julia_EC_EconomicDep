@@ -19,12 +19,12 @@ Julia is a new Open Source language designed for science and data analysis. With
 
     1. Clone this repository by running the following git command:
         ```
-        git clone https://github.com/pszufe/2024_MIT_18.S097_Introduction-to-Julia-for-Data-Science.git
+        git clone https://github.com/pszufe/2024_Julia_EC_EconomicDep.git
         ```
 
     2. Change the directory to where `Project.toml` and `Manifest.toml` files are located
         ```
-        cd "2024_MIT_18.S097_Introduction-to-Julia-for-Data-Science"
+        cd "2024_Julia_EC_EconomicDep"
         ```
     3. Run the Julia console or in the command line (run command **julia** in the project folder). Once Julia interpreter is running paste the following Julia code:
         ```

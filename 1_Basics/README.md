@@ -21,6 +21,7 @@ Julia is a new Open Source language designed for science and data analysis. With
         ```
         git clone https://github.com/pszufe/2024_Julia_EC_EconomicDep.git
         ```
+        or you can download the entire repository from GitHub by clicking the green button `Code => Download ZIP`. If you download the repository you need to unzip it. 
 
     2. Change the directory to where `Project.toml` and `Manifest.toml` files are located
         ```
@@ -34,7 +35,7 @@ Julia is a new Open Source language designed for science and data analysis. With
         ```
         
        Additionally, you need to make Julia to work with Python. By default Julia installs its own Python.
-       However you can attach your Julia to an external Python installation (OPTIONAL):
+       However, you can attach your Julia to an external Python installation (OPTIONAL):
        ```
         ENV["PYTHON"]="C:\\ProgramData\\Anaconda3\\python.exe"
         using Pkg
